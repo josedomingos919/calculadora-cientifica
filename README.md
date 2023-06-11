@@ -24,4 +24,7 @@ porque tenho maior dominio nela e desenvolvi a calculadora
 - Git
 - VScode 
 
+# O Projeto
+<img alt="img.png" src="https://github.com/josedomingos919/calculadora-cientifica/blob/main/docs/img.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
 Obrigado!
